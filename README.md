@@ -39,8 +39,8 @@ The Algorithm to find best Activation Function by the Neural Network consist mul
     best activation function.
  
  7. From the observations we can conclude that softmax provides better accuracy and less loss during training and evaluating the model.
-    Test Loss 0.2796614468097687
-    Test Accuracy 0.9223999977111816
+    Test Loss 0.2796614468097687, 
+    Test Accuracy 0.9223999977111816, 
     f1_score 0.9223876185408042
     Model 9224 times classified correctly and 776 times classified incorrectly
     The detailed classification report is implemented in code with respective of Recall and Precision.
